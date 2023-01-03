@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad77098d-19e9-4b1a-aabe-63763e0c8a3c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Thyroid_Disease_Detection/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Face_Emotion_Detectio&amp;Emoji_generation/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Face_Emotion_Detectio&amp;Emoji_generation/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InventoryManagementSystem/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InventoryManagementSystem/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML_Final_Year_Project/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML_Final_Year_Project/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML_Final_Year_Project/templates/after.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ML_Final_Year_Project/templates/after.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML_Final_Year_Project/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ML_Final_Year_Project/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpamMail/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SpamMail/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentAdmission/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentAdmission/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentAdmission/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentAdmission/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../emotion_detection_and_emoji generate/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flaskProject1/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../flaskProject1/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongodb/mongotest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mongodb/mongotest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongodb/new.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mongodb/new.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject1/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject2/test.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Jo76gZKQM0dStiLXHpAyKhe2GK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Thyroid_Disease_Detection_Flask" type="Python.FlaskServer">
+      <module name="Thyroid_Disease_Detection_Flask" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad77098d-19e9-4b1a-aabe-63763e0c8a3c" name="Changes" comment="" />
+      <created>1672732407182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672732407182</updated>
+      <workItem from="1672732417085" duration="78000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
