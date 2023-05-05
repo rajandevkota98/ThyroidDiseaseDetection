@@ -1,0 +1,4 @@
+[ 2023-05-05 22:29:13,699 ] 17 root - INFO - We are in data ingestion
+[ 2023-05-05 22:29:13,699 ] 20 root - INFO - artifact directory is being created
+[ 2023-05-05 22:29:13,699 ] 22 root - INFO - feature store is being created
+[ 2023-05-05 22:29:13,699 ] 24 root - INFO - Train and Test separated CSV file being created

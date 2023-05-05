@@ -1,8 +1,9 @@
 import pymongo
 import pandas as pd
 import json
-from dataclass import dataclass
+from dataclasses import dataclass
 import os
+
 
 @dataclass
 class EnvironmentVariable:
