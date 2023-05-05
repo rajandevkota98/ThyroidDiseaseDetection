@@ -1,12 +1,10 @@
-from flask import Flask
+import os,sys
+from thyroid.logger import logging
+from thyroid.exception import ThyroidException
 
-app = Flask(__name__)
-
-
-@app.route('/')
-def hello_world():  # put application's code here
-    return 'Hello World!'
-
-
-if __name__ == '__main__':
-    app.run()
+if __name__ =="__main__":
+    try:
+        test_logger_and_exception()
+    except Exception as e:
+        print(e)
+    
