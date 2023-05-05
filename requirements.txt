@@ -13,4 +13,5 @@ typing_extensions==4.5.0
 Werkzeug==2.2.3
 zipp==3.15.0
 pymongo
+python-dotenv
 -e .
