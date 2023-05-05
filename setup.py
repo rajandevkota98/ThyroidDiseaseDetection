@@ -6,7 +6,6 @@ def get_requirements()->List[str]:
     with open(REQUIRED_FILE_NAME) as file:
         required_list = file.readlines()
     required_list = [requirement_name.replace('\n', '') for requirement_name in required_list]
-
     if '-e .' in required_list:
         required_list.remove('-e .')
     return required_list
