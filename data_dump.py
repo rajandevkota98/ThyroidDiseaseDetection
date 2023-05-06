@@ -2,11 +2,11 @@ import pymongo
 import pandas as pd
 client = pymongo.MongoClient("mongodb://localhost:27017/neurolabDB")
 import json
-DATABASE_NAME = "thyoroid"
+DATABASE_NAME = "thyroid"
 COLECTION_NAME = "data"
 
 if __name__ =="__main__":
-    df = pd.read_csv("/config/workspace/dataset/thyroid0387.csv",header = None)
+    df = pd.read_csv("/config/workspace/dataset/allrep.data",header = None)
     column_list = ['age',
         'sex',
         'on_thyroxine',
