@@ -9,4 +9,5 @@ To run this project, follow these steps.
 ``python data_dump.py``
 
 ## Step 3: Run main.py file.
-``python main.py``
+``python app.py``
+

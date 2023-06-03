@@ -33,7 +33,6 @@ class DataIngestion:
             logging.info('feature store dir is being created')
             feature_store_dir = os.path.dirname(self.data_ingestion_config.feature_store_file_path)
             os.makedirs(feature_store_dir, exist_ok = True)
-
         
             #save data in feature store dirs
             logging.info(' thyroid data is dumped to the directory')
